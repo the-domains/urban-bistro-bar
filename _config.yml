@@ -1,7 +1,7 @@
 name: Urban Bistro-Bar
 favicon: null
-layout_spectrum: 0.50176
-typography_spectrum: 0.64722
+layout_spectrum: 0.75886
+typography_spectrum: 0.48695
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#bea287'
     - '#452d2d'
     - '#fbeccc'
-  brandStrength: 0.1386963464319706
-  lightness: 0.6875
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
